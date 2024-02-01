@@ -51,6 +51,7 @@ https://www.fda.gov/media/172242/download
 Intarcia Therapeutics, Inc.
 *FDA Briefing Document for NDA #209053
 "Source: CDER Review staff. Software: R v. 4.2 (IVC_plots.R);"
+"Source: CDER Review staff. Analysis: R v. 4.3, survival package (Therneau and Grambsch 2000; Therneau 2023)."
 
 https://www.fda.gov/media/165980/download
 2023
@@ -180,6 +181,13 @@ Gilead Sciences
 "Rstudio/R 2.14.0 were used for data manipulation and analysis"
 
 ## Python
+
+https://www.fda.gov/media/168215/download
+2023
+*FDA Briefing Document NDA# 212833
+Intercept Pharmaceuticals
+"Source: FDA Review staff analysis using Applicant-submitted data adsl.xpt, adlbce.xpt, adlbhb.xpt, adcm.xpt, adexsum.xpt in
+Python (Ver. 3)"
 
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214410Orig1s000,%20210854Orig1s004,%20s010IntegratedR.pdf
 2020
