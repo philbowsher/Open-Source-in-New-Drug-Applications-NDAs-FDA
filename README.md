@@ -260,3 +260,7 @@ https://www.cdc.gov/mmwr/volumes/72/wr/mm7220a3.htm
 2023
 JYNNEOS Vaccine
 "Analyses were conducted using the survival package in R statistical software (version 4.2.2; The R Foundation)."
+
+https://www.fda.gov/food/laboratory-methods-food/bam-appendix-2-most-probable-number-serial-dilutions
+2023
+https://cran.r-project.org/web/packages/MPN/index.html
