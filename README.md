@@ -264,3 +264,7 @@ JYNNEOS Vaccine
 https://www.fda.gov/food/laboratory-methods-food/bam-appendix-2-most-probable-number-serial-dilutions
 2023
 https://cran.r-project.org/web/packages/MPN/index.html
+
+https://www.fda.gov/medical-devices/science-and-research-medical-devices/imrmc-software-do-multi-reader-multi-case-statistical-analysis-reader-studies
+"perform a noninferiority study using the iMRMC R package"
+https://github.com/DIDSR/iMRMC
