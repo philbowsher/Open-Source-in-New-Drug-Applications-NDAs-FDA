@@ -155,9 +155,6 @@ https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216956Orig1s000Multidisc
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215239Orig1s000IntegratedR.pdf 2023 Santhera Pharmaceuticals Switzerland LTD
 "Source: adex.xpt and adsl.xpt; Software: R" 
 
-https://www.fda.gov/media/164666/download 2023 Cidara Therapeutics, Inc.
-"Source: adex.xpt and adsl.xpt; software: R"
-
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/761328Orig1s000IntegratedR.pdf 2023 AstraZeneca
 "Source: ds.xpt and Clinical Study Report; Software: R"
 
@@ -277,11 +274,9 @@ Intercept Pharmaceuticals
 *FDA Briefing Document for NDA 212833
 "Source: Clinical data Scientist’s analysis of adae.xpt; Software: R (Ver 4.1.0)"
 
-https://www.fda.gov/media/164666/download
-2023
-Cidara Therapeutics, Inc.
+https://www.fda.gov/media/164666/download 2023 Cidara Therapeutics, Inc.
 *FDA Briefing Document for NDA #217417
-"Source: adae.xpt; software: R"
+"Source: adae.xpt; software: R" "Source: adex.xpt and adsl.xpt; software: R"
 
 https://www.fda.gov/media/172242/download
 2023
