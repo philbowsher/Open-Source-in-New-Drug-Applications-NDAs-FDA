@@ -237,6 +237,15 @@ https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215887Orig1s000Integrate
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/761286Orig1s000IntegratedR.pdf 2023 UCB, Inc
 "Source: adex.xpt and adsl.xpt; Software: R and MG0003 CSR Table 6.2.2"
 
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/761161Orig1s000MultidisciplineR.pdf 2023 Chiesi Farmaceutici
+"were used for analysis. R 4.1.0 was used for analysis."
+
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/761345Orig1s000MultidisciplineR.pdf 2023 Pfizer
+"R statistical software© (version 4.1.3) (The R Foundation, Vienna, Austria) was used for data tabulation, and visualization activities."
+
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216951Orig1s000OtherR.pdf 2023 GlaxoSmithKline
+"Analysis Source: Clinical Reviewer, ADAE.xpt, ADSL.xpt, R Version 4.2"
+
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213969Orig1s000IntegratedR.pdf 2020 Eiger BioPharmaceuticals, Inc.
 "and Python software" "Source: adex.xpt; Software: Python"
 
