@@ -73,6 +73,9 @@ https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/219042Orig1s000AdminCorr
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/218230Orig1s000IntegratedR.pdf 2025 GLAXOSMITHKLINE LLC
 "Source: FDA analysis; adsl.xpt; Software: R"
 
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/022137Orig1s015MultidisciplineR.pdf 2025 022137 Label Change
+"identified through a python-based tool"
+
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/215192Orig1s000OtherR.pdf 2024 Akebia Therapeutics 
 "Source: Kidney Injury Follow-On Guide; adae.xpt; Software: R"
 
@@ -123,7 +126,7 @@ https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/216158Orig1s000Integrate
 "Source: adlb.xpt; Software: R" 
 
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/219132Orig1s000IntegratedR.pdf 2024 IntraBio Ltd.
-"Source: adsl.xpt; Software: R"
+"Source: adsl.xpt; Software: R" "and Python software"
 
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/215151Orig1s000IntegratedR.pdf 2024 Phathom Pharmaceuticals
 "Source: ds.xpt and adsl.xpt; Software: R" 
@@ -211,7 +214,7 @@ https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/217369Orig2s000Integrate
 "adae.xpt; software: R"
 
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/761204Orig1s000IntegratedR.pdf 2023 Amicus Therapeutics, Inc.
-"Source: adae.xpt; software: R."
+"Source: adae.xpt; software: R." "and Python software"
 
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215842Orig1s000IntegratedR.pdf 2023 NOVO NORDISK INC
 "Source: adae.xpt; software: R"
