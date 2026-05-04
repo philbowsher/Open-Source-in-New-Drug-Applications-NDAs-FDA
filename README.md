@@ -1,5 +1,5 @@
 # Open-Source-in-New-Drug-Applications-NDAs-FDA
-List of Open-Source in New Drug Applications NDAs FDA. Compiled for research for conference talk. Feel free to send me more if I missed any. R at top and python is below. Oldest date for R is 2007. Please check for duplicates if needed. One thing I learned for 2026 analysis, is that many NDAs reference [OCS Analysis Studio](https://www.fda.gov/media/171317/download), built with R Shiny, JavaScript, D3.js, and more, which offers a set of reactive and flexible tools useful for improving the clinical review process. I did not include the references to this tool in the review below.
+List of Open-Source in New Drug Applications NDAs FDA. Compiled for research for conference talk. Feel free to send me more if I missed any. R at top and python is below. Oldest date for R is 2007. Please check for duplicates if needed. One thing I learned for 2026 analysis, is that many NDAs reference [OCS Analysis Studio](https://www.fda.gov/media/171317/download), built with R, Shiny, JavaScript, D3.js, and more, which offers a set of reactive and flexible tools useful for improving the clinical review process. I did not include the references to this tool in the review below.
 
 # FDA references:
 ## R
