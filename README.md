@@ -152,6 +152,9 @@ https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/761363Orig1s000Integrate
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/216540Orig1s000IntegratedR.pdf 2024 BRIDGEBIO PHARMA INC
 "The statistical software R was used for safety analyses" "Source: adex.xpt and adsl.xpt; Software: R"
 
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/214927Orig1s000IntegratedR.pdf 2024 Zevra Denmark AS
+"and Python software" "Source: adex.xpt; Software: Python"
+
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216956Orig1s000MultidisciplineR.pdf 2023 Pfizer Inc.
 "Source: adsl.xpt; Software: R "
 
@@ -224,6 +227,9 @@ https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215887Orig1s000Integrate
 
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/761286Orig1s000IntegratedR.pdf 2023 UCB, Inc
 "Source: adex.xpt and adsl.xpt; Software: R and MG0003 CSR Table 6.2.2"
+
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213969Orig1s000IntegratedR.pdf 2020 Eiger BioPharmaceuticals, Inc.
+"and Python software" "Source: adex.xpt; Software: Python"
 
 ## New for 2024 Analysis
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/217188Orig1s000IntegratedR.pdf
