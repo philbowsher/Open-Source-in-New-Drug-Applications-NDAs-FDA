@@ -76,6 +76,9 @@ https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/218230Orig1s000Integrate
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/022137Orig1s015MultidisciplineR.pdf 2025 022137 Label Change
 "identified through a python-based tool"
 
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/220073Orig1s000IntegratedR.pdf 2025 Bristol-Myers Squibb Company
+"Source: CDS.xpt and adsl.xpt; Software: R" "The GoF plots were plotted in R version 4.3.3 and inspected" "through the GoF plot using R version 4.3.3"
+
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/215192Orig1s000OtherR.pdf 2024 Akebia Therapeutics 
 "Source: Kidney Injury Follow-On Guide; adae.xpt; Software: R"
 
@@ -154,6 +157,12 @@ https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/216540Orig1s000Integrate
 
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/214927Orig1s000IntegratedR.pdf 2024 Zevra Denmark AS
 "and Python software" "Source: adex.xpt; Software: Python"
+
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217388Orig1s000IntegratedR.pdf 2024 Ionis Pharmaceuticals
+"Source: adae.xpt; Software: R"
+
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217900Orig1s000MultidisciplineR.pdf 2024 Sun Pharmaceutical Inc.
+"R (Version 4.2.0)" "Acceptability/Comment Yes"
 
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216956Orig1s000MultidisciplineR.pdf 2023 Pfizer Inc.
 "Source: adsl.xpt; Software: R "
