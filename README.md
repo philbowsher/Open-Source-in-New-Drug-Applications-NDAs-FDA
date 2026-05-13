@@ -164,6 +164,14 @@ https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217388Orig1s000Integrate
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217900Orig1s000MultidisciplineR.pdf 2024 Sun Pharmaceutical Inc.
 "R (Version 4.2.0)" "Acceptability/Comment Yes"
 
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/219249Orig1s000MultidisciplineR.pdf 2024 Genentech Inc.
+"were performed using R® V4.2 (or higher) with comprehensive R archive network (CRAN)"
+https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-inavolisib-palbociclib-and-fulvestrant-endocrine-resistant-pik3ca-mutated-hr-positive
+https://www.youtube.com/watch?v=4YpKAal5WUU
+https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PAP_SA02.pdf
+https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PRE_SA02.pdf
+https://www.gene.com/media/press-releases/15011/2023-12-04/genentech-announces-positive-phase-iii-r
+
 https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216956Orig1s000MultidisciplineR.pdf 2023 Pfizer Inc.
 "Source: adsl.xpt; Software: R "
 
